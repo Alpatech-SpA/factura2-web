@@ -106,7 +106,7 @@
 		}
         & .main-btn{
             @media #{$xs} {
-                display: none;
+                display: inline-block;
             }
             @media #{$sm} {
                 padding: 0 10px;

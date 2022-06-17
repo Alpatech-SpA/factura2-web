@@ -914,7 +914,7 @@ p {
 }
 @media (max-width: 767px) {
   .header-nav-box .appie-btn-box .main-btn {
-    display: none;
+    display: inline-block;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
